@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="note" />
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.example.sharedpreference.WeatherUtil.Province" />
+        <mapping class="com.example.sharedpreference.WeatherUtil.City" />
+        <mapping class="com.example.sharedpreference.WeatherUtil.County" />
+        <mapping class="com.example.sharedpreference.Database.Note" />
+    </list>
+
+</litepal>
